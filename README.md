@@ -1,4 +1,4 @@
 datasci
 =======
 
-Coursera John Hoplins Data Science Course
+Coursera John Hoplins Data Science Course.
